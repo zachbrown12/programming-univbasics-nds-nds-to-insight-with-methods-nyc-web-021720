@@ -21,5 +21,5 @@ end
 def directors_totals(nds)
   direct_index = 0
   result = {}
-  
+  while direct_index < 
 end
