@@ -19,6 +19,7 @@ end
 #
 # { directorOne => allTheMoneyTheyMade, ... }
 def directors_totals(nds)
+  direct_index = 0
   result = {}
   nil
 end
